@@ -101,6 +101,35 @@ Status              : Deposit successful
 ├── privatekeys.txt      # Wallets input file
 └── README.md            # This documentation
 ```
+## 🔒 Restricted Access: VIP ADFMIDN Members Only
+
+The **MAVRYK DeFi Bot v1.0** is an **exclusive tool for VIP ADFMIDN members** only.
+
+To use this script, you **must have a valid license key** issued after successfully joining the VIP membership.
+
+### 🎫 How to Get a License Key
+
+To join the VIP program and receive your personal license key:
+
+* 💬 Telegram: `[@FxcTe](https://t.me/FxcTe)`
+
+> Each license key is **unique, non-transferable, and monitored** for misuse.
+
+---
+
+### ⚠️ WARNING
+
+* Unauthorized use, distribution, or modification of this script is strictly prohibited.
+* Violating the license terms may result in **permanent access revocation** and possible **legal consequences**.
+* All license keys are actively verified and tracked via an automatic validation system.
+
+---
+
+### ✅ License Verification
+
+This script will automatically **verify your license key** at runtime.
+If the key is missing, invalid, expired, or unauthorized — all functionality will be disabled.
+
 ---
 
 
