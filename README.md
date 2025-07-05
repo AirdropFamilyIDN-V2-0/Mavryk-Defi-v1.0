@@ -104,7 +104,6 @@ Status              : Deposit successful
 ## 🔒 Restricted Access: VIP ADFMIDN Members Only
 
 The **MAVRYK DeFi Bot v1.0** is an **exclusive tool for VIP ADFMIDN members** only.
-
 To use this script, you **must have a valid license key** issued after successfully joining the VIP membership.
 
 ### 🎫 How to Get a License Key
