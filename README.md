@@ -110,7 +110,7 @@ To use this script, you **must have a valid license key** issued after successfu
 
 To join the VIP program and receive your personal license key:
 
-* 💬 Telegram: `[@FxcTe](https://t.me/FxcTe)`
+* 💬 Telegram: [@FxcTe](https://t.me/FxcTe)
 
 > Each license key is **unique, non-transferable, and monitored** for misuse.
 
