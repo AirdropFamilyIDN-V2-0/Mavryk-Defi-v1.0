@@ -1,4 +1,4 @@
-# 🧠 MAVRYK DeFi Bot v1.6
+# 🧠 MAVRYK DeFi Bot v1.0
 
 Automated DeFi strategy execution tool built on the **Mavryk Network**, enabling batch wallet processing for liquidity provision, vault creation, borrowing, repayment, and token staking (MVN) across multiple accounts.
 
