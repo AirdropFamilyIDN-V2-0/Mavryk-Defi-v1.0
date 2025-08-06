@@ -63,7 +63,7 @@ Dependencies:
 Run the bot using Node.js:
 
 ```bash
-node main.js
+node bot.js
 ```
 
 The script will:
@@ -130,6 +130,7 @@ This script will automatically **verify your license key** at runtime.
 If the key is missing, invalid, expired, or unauthorized — all functionality will be disabled.
 
 ---
+
 
 
 
